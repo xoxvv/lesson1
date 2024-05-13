@@ -13,8 +13,8 @@ grades[4]=sum(grades[4])/len(grades[4])
 print(grades)
 #ball_sr= {students_sp:grades}
 ball_sr['Aaron']=grades[0]
-ball_sr['Khendrik']=grades[3]
 ball_sr['Bilbo']=grades[1]
 ball_sr['Johnny']=grades[2]
+ball_sr['Khendrik']=grades[3]
 ball_sr['Steve']=grades[4]
 print(ball_sr)
