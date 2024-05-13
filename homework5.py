@@ -11,4 +11,3 @@ print(my_dict)
 print("my_dict 'kiwi' =", my_dict['kiwi'])
 my_dict['apple']='hot apple'
 print(my_dict)
-my_dict
